@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030194866424",
+    "project_id": "planinc-1719027737497",
+    "storage_bucket": "planinc-1719027737497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030194866424:android:6f24efaf98750f5e43730d",
+        "android_client_info": {
+          "package_name": "app.planinc.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRo5-yb7XtoGjz8FvqUT4SS_6PlPlLvzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
