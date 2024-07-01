@@ -1,0 +1,459 @@
+{
+  "_id": "64637f93121795db5703240c",
+  "cms_settings": null,
+  "post_settings": {
+    "show_related_posts": 1,
+    "enable_post_search": 1,
+    "enable_web_view_interface_bool": 1,
+    "posts_view_style": "list",
+    "show_additional_information_bool": 1
+  },
+  "app_monetization": null,
+  "ios_permissions": null,
+  "android_permissions": null,
+  "web_view_settings": {
+    "show_domain": 1,
+    "show_back_and_forth_arrows": 1,
+    "show_options_shortcut": 1,
+    "show_app_header_bool": 0,
+    "show_web_view_header_bool": 0,
+    "show_web_view_footer_bool": 0,
+    "show_web_view_sidebar_bool": 1,
+    "hide_html_element_by_class": "",
+    "hide_html_element_by_id": "",
+    "enable_pinch_to_zoom_bool": 0,
+    "remember_cookies_bool": 0
+  },
+  "billing": {
+    "subscription_add_ons": {
+      "customer_support_modules": {
+        "status": 0,
+        "data": null
+      },
+      "app_analytics_feature": {
+        "status": 0,
+        "data": null
+      },
+      "consent_form_feature": {
+        "status": 0,
+        "data": {
+          "form_bool": 0,
+          "form_title": "",
+          "form_description": ""
+        }
+      },
+      "prevent_screenshot_feature": {
+        "status": 0,
+        "data": null
+      },
+      "white_label_feature": {
+        "status": 0,
+        "data": null
+      },
+      "language_support_feature": {
+        "status": 0,
+        "data": null
+      },
+      "multisite_support_feature": {
+        "status": 0,
+        "data": null
+      }
+    }
+  },
+  "app_id": 264,
+  "user_id": 13,
+  "client_id": 10003628,
+  "service": 3,
+  "general": {
+    "title": "SamplecustomApp2",
+    "website_terms_conditions_page_url": ""
+  },
+  "appearance": {
+    "base_style": {
+      "header_font_name": "Bookman",
+      "button_color_object": {
+        "portal_data": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(128,0,128,1) 13%, rgba(0,212,255,1) 100%)",
+        "app_data": {
+          "colors": [
+            {
+              "hex": "#020024",
+              "alpha": 1
+            },
+            {
+              "hex": "#800080",
+              "alpha": 1
+            },
+            {
+              "hex": "#00D4FF",
+              "alpha": 1
+            }
+          ],
+          "locations": [
+            "0%",
+            "13%",
+            "100%"
+          ],
+          "type": "linear",
+          "angle": 90
+        }
+      },
+      "button_text_color_object": {
+        "portal_data": "rgba(198, 229, 229, 0.92)",
+        "app_data": {
+          "colors": [
+            {
+              "hex": "#C6E5E5",
+              "alpha": 0.92
+            }
+          ],
+          "locations": [],
+          "type": "",
+          "angle": 0
+        }
+      },
+      "header_primary_color_object": {
+        "portal_data": "rgba(226, 201, 239, 1)",
+        "app_data": {
+          "colors": [
+            {
+              "hex": "#E2C9EF",
+              "alpha": 1
+            }
+          ],
+          "locations": [],
+          "type": "",
+          "angle": 0
+        }
+      },
+      "header_secondary_color_object": {
+        "portal_data": "rgba(10, 50, 197, 1)",
+        "app_data": {
+          "colors": [
+            {
+              "hex": "#0A32C5",
+              "alpha": 1
+            }
+          ],
+          "locations": [],
+          "type": "",
+          "angle": 0
+        }
+      }
+    },
+    "bottom_menu": {
+      "bottom_menu_style": {
+        "bottom_menu_bg_colour_object": {
+          "portal_data": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)",
+          "app_data": {
+            "colors": [
+              {
+                "hex": "#020024",
+                "alpha": 1
+              },
+              {
+                "hex": "#090979",
+                "alpha": 1
+              },
+              {
+                "hex": "#00D4FF",
+                "alpha": 1
+              }
+            ],
+            "locations": [
+              "0%",
+              "35%",
+              "100%"
+            ],
+            "type": "linear",
+            "angle": 90
+          }
+        },
+        "bottom_menu_border_colour_object": {
+          "portal_data": "",
+          "app_data": null
+        },
+        "bottom_menu_selected_icon_colour_object": {
+          "portal_data": "",
+          "app_data": null
+        },
+        "bottom_menu_icon_colour_object": {
+          "portal_data": "",
+          "app_data": null
+        },
+        "bottom_menu_selected_text_colour_object": {
+          "portal_data": "rgba(224, 12, 12, 1)",
+          "app_data": {
+            "colors": [
+              {
+                "hex": "#E00C0C",
+                "alpha": 1
+              }
+            ],
+            "locations": [],
+            "type": "",
+            "angle": 0
+          }
+        },
+        "bottom_menu_text_colour_object": {
+          "portal_data": "rgba(255,255,255, 1)",
+          "app_data": {
+            "colors": [
+              {
+                "hex": "#FFFFFF",
+                "alpha": 1
+              }
+            ],
+            "locations": [],
+            "type": "",
+            "angle": 0
+          }
+        },
+        "bottom_menu_show_text": 1
+      },
+      "bottom_menu_items": [
+        {
+          "id": "home",
+          "status": 1,
+          "item_position": 0,
+          "item_name": "Home",
+          "item_type": "cms_page",
+          "item_icon": "unicorn.png",
+          "item_icon_type": "bold",
+          "item_icon_newtype": "",
+          "item_icon_flaticon_color": "",
+          "is_default": 0,
+          "slug": "page",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Home Page",
+          "invidual_selected_item_id": "64637f95121795db5703240e",
+          "isCms": 1
+        },
+        {
+          "id": 0,
+          "status": 1,
+          "item_position": 1,
+          "item_name": "Pages",
+          "item_type": "cms_page",
+          "item_icon": "hearts.png",
+          "item_icon_type": "bold",
+          "item_icon_newtype": "",
+          "item_icon_flaticon_color": "",
+          "is_default": 0,
+          "slug": "page",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Pages",
+          "invidual_selected_item_id": "",
+          "isCms": 1
+        },
+        {
+          "id": 1,
+          "status": 1,
+          "item_position": 2,
+          "item_name": "Blog",
+          "item_type": "cms_post",
+          "item_icon": "moon.png",
+          "item_icon_type": "bold",
+          "item_icon_newtype": "",
+          "item_icon_flaticon_color": "",
+          "is_default": 1,
+          "slug": "post",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Blog",
+          "invidual_selected_item_id": "",
+          "isCms": 1
+        },
+        {
+          "id": 2,
+          "status": 1,
+          "item_position": 3,
+          "item_name": "Categories",
+          "item_type": "cms_category",
+          "item_icon": "ice-cream.png",
+          "item_icon_type": "bold",
+          "item_icon_newtype": "",
+          "item_icon_flaticon_color": "",
+          "is_default": 0,
+          "slug": "category",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Post Categories",
+          "invidual_selected_item_id": "",
+          "isCms": 1
+        },
+        {
+          "id": 3,
+          "status": 1,
+          "item_position": 4,
+          "item_name": "Tags",
+          "item_type": "cms_tag",
+          "item_icon": "heart.png",
+          "item_icon_type": "bold",
+          "item_icon_newtype": "",
+          "item_icon_flaticon_color": "",
+          "is_default": 0,
+          "slug": "tag",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Post Tags",
+          "invidual_selected_item_id": "",
+          "isCms": 1
+        }
+      ]
+    },
+    "side_menu": {
+      "menu_type": "custom_pro",
+      "custom_cms_items": [
+        {
+          "status": 1,
+          "is_default": 1,
+          "item_position": 0,
+          "item_name": "Home",
+          "item_type": "cms_page",
+          "item_icon": "unicorn.png",
+          "item_icon_type": "bold",
+          "slug": "",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Home Page",
+          "individual_selected_item_id": "64637f95121795db5703240e",
+          "selected_ids": [
+            "64637f95121795db5703240e"
+          ],
+          "selected_item_name": "Pages",
+          "last_item": "Home Page",
+          "is_tree": 4
+        },
+        {
+          "status": 1,
+          "is_default": 1,
+          "item_position": 1,
+          "item_name": "About",
+          "item_type": "cms_page",
+          "item_icon": "hearts.png",
+          "item_icon_type": "bold",
+          "slug": "",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Pages",
+          "individual_selected_item_id": "",
+          "selected_item_name": "Pages",
+          "selected_ids": [],
+          "last_item": "Pages",
+          "is_tree": 4
+        },
+        {
+          "status": 1,
+          "is_default": 1,
+          "item_position": 2,
+          "item_name": "Blog",
+          "item_type": "cms_post",
+          "item_icon": "moon.png",
+          "item_icon_type": "bold",
+          "slug": "",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Posts",
+          "individual_selected_item_id": "",
+          "selected_item_name": "Posts",
+          "selected_ids": [],
+          "last_item": "Posts",
+          "is_tree": 5
+        },
+        {
+          "status": 1,
+          "is_default": 1,
+          "item_position": 3,
+          "item_name": "Watch",
+          "item_type": "web_view",
+          "item_icon": "ice-cream.png",
+          "item_icon_type": "bold",
+          "slug": "",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Watch",
+          "individual_selected_item_id": "",
+          "web_view_url": "www.youtube.com",
+          "web_view_settings": {
+            "show_app_header": 1,
+            "show_web_view_footer": 1,
+            "show_web_view_header": 1,
+            "hide_html_element_by_class": "",
+            "hide_html_element_by_id": ""
+          },
+          "selected_item_name": "Web View",
+          "selected_ids": [],
+          "last_item": "Web View",
+          "is_tree": 0
+        },
+        {
+          "status": 1,
+          "is_default": 1,
+          "item_position": 4,
+          "item_name": "Shop",
+          "item_type": "web_view",
+          "item_icon": "heart.png",
+          "item_icon_type": "bold",
+          "slug": "",
+          "rest_base": "",
+          "post_type": "",
+          "item_title": "Shop",
+          "individual_selected_item_id": "",
+          "web_view_url": "www.nike.com",
+          "web_view_settings": {
+            "show_app_header": 1,
+            "show_web_view_footer": 1,
+            "show_web_view_header": 1,
+            "hide_html_element_by_class": "",
+            "hide_html_element_by_id": ""
+          },
+          "selected_item_name": "Web View",
+          "selected_ids": [],
+          "last_item": "Web View",
+          "is_tree": 0
+        }
+      ]
+    },
+    "customer_information": {
+      "enable_customer_information_bool": 0,
+      "enable_business_email_bool": 0,
+      "business_email_title": "",
+      "business_email_icon": "",
+      "business_email_value": "",
+      "business_email_iconcolor": null,
+      "enable_business_phone_bool": 0,
+      "business_phone_title": "",
+      "business_phone_icon": "",
+      "business_phone_value": "",
+      "business_phone_iconcolor": null,
+      "enable_share_app_bool": 0,
+      "share_app_title": "",
+      "share_app_icon": "",
+      "share_app_value": "",
+      "share_app_iconcolor": null
+    }
+  },
+  "init_updated_at": "2023-05-23T06:07:33.000Z",
+  "deleted_at": null,
+  "updated_at": "2023-05-23T06:07:34.616Z",
+  "created_at": "2023-05-16T13:05:23.791Z",
+  "aws_directory": {
+    "CountriesFlagUrl": {
+      "flag_url": "https://d33cfg8bjlyn3i.cloudfront.net/assets/images/flags/100x100/"
+    },
+    "Icons": {
+      "light": "icons/96w/light",
+      "regular": "icons/96w/regular",
+      "bold": "icons/96w/bold"
+    },
+    "CustomCms": {
+      "CustomCms": "custom-cms-media"
+    },
+    "AppIcon": {
+      "Display": "app_icon/display_image/"
+    }
+  },
+  "aws_url": "https://d33cfg8bjlyn3i.cloudfront.net"
+}
